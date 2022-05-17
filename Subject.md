@@ -1,4 +1,4 @@
- We have 2 stacks named a and b.
+  We have 2 stacks named a and b.
 • At the beginning:
 ◦ The stack a contains a random amount of negative and/or positive numbers
 which cannot be duplicated.
